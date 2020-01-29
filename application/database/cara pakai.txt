@@ -1,0 +1,2 @@
+import db ke dbms
+sesuaikan nama db dengan yang ada pada config->database->database_name
